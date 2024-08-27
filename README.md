@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alpha-lacrim
+- 👀 I’m interested in algorithms, AI and video games
+- 🌱 I’m currently learning Python and its frameworks
+- 📫 You can reach me via telegram @Alpha_Lacrim
+- 😄 Pronouns: He/Him
