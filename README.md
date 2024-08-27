@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alpha-lacrim
+- 👋 Hi, I’m @Alpha-lacrim a computer engineering student
 - 👀 I’m interested in algorithms, AI and video games
 - 🌱 I’m currently learning Python and its frameworks
 - 📫 You can reach me via telegram @Alpha_Lacrim
