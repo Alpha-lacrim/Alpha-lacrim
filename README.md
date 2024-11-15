@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student in university.
+- 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student.
 
 - 👀 I’m interested in algorithms, AI and video games
 
-- 🌱 I’m still learning and currently not working anywhere but I'd like to
+- 🌱 I’m still learning and currently not working anywhere
 
 - 📫 You can reach me via telegram @Alpha_Lacrim or my e-mail Alpha.Lacrim@gmail.com
 
