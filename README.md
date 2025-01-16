@@ -1,5 +1,6 @@
 
-![fantasy-lord-of-the-rings-wallpaper-desktop-phone-tablet-hwgunrgqyr65akns](https://github.com/user-attachments/assets/d66787e1-9340-497c-a28c-6066faa82a9b)
+![Dark Souls III Screenshot 2025 01 06 - 08 12 53 04](https://github.com/user-attachments/assets/cc37f91e-ffa6-4f47-993e-ed5cac470362)
+
 
 - 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student.
 
