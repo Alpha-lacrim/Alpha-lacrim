@@ -1,5 +1,6 @@
 
-![Dark Souls III Screenshot 2025 01 06 - 08 12 53 04](https://github.com/user-attachments/assets/cc37f91e-ffa6-4f47-993e-ed5cac470362)
+![photo_2025-01-16_04-55-24](https://github.com/user-attachments/assets/a061f589-f4c2-4aaf-95a0-ed0f39d3d156)
+
 
 
 - 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student.
