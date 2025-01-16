@@ -1,4 +1,5 @@
-![LCkTwOF](https://github.com/user-attachments/assets/1563ace8-558c-4d83-a27e-5ba239466bcb)
+
+![maxresdefault](https://github.com/user-attachments/assets/d72c3011-fd79-4ca5-875b-92f80c8e5f4a)
 
 - 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student.
 
