@@ -11,3 +11,5 @@
 - ☕ I can speak English and Persian
 
 - 📚 Languages and frameworks : C/C++/Java/JavaFX/Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim)](https://github.com/anuraghazra/github-readme-stats)
