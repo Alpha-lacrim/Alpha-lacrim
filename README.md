@@ -13,4 +13,4 @@
 - 📚 Languages and frameworks : C/C++/Java/JavaFX/Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha-Lacrim&show_icons=true&theme=radical)
