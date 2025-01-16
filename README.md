@@ -1,11 +1,9 @@
-
-![photo_2025-01-16_04-55-24](https://github.com/user-attachments/assets/a061f589-f4c2-4aaf-95a0-ed0f39d3d156)
-
-
+![LCkTwOF](https://github.com/user-attachments/assets/1563ace8-558c-4d83-a27e-5ba239466bcb)
 
 - 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student.
 
 - 👀 I’m interested in algorithms, AI and video games
+
 
 - 🌱 I’m still learning and currently not working anywhere
 
