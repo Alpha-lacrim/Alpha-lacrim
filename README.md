@@ -5,9 +5,7 @@
 
 - 👀 I’m interested in Cybersecurity, AI and video games
 
-- 🌱 I’m currently learning and not working
-
-- 📫 You can reach me via telegram @Alpha_Lacrim or my e-mail Alpha.Lacrim@gmail.com
+- 🌱 I’m currently learning and not working but I'd like to
 
 - 😄 Pronouns: He/Him
 
