@@ -15,6 +15,10 @@
 
 - 📚 Programming Languages, frameworks and etc : C/C++/Java/JavaFX/Python/Machine Learning/OpenCV/Deep Learning/CNN
 
+
+- About Me: I'm a dedicated Computer Engineer with a deep passion for both hardware and software. My technical background includes experience in image processing, machine learning, deep learning, and CNNs, supported by strong knowledge of related frameworks and tools. I’m deeply interested in both Artificial Intelligence and Cybersecurity and aim to bridge the two fields. Currently studying LPIC-1 fundamentals to deepen my Linux knowledge and planning to explore LLMs. I have participated in multiple computer science competitions, earning top ranks in several. I’m always eager to learn new algorithms and expand my understanding of the ever-evolving world of computing.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim&theme=radical)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha-Lacrim&show_icons=true&theme=radical)
 
