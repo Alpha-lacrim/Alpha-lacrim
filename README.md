@@ -24,6 +24,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha-Lacrim&show_icons=true&theme=radical)
 
+<!-- Languages -->
+<hr>
+<h2 align="center">🔥 Languages/Frameworks/Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,opencv,tensorflow,anaconda,linux,kali,ubuntu,jupyternotebook,vscode,clion,pycharm,idea&perline=5" /><br>
+  </a>
+<hr>
+
 
 
 
