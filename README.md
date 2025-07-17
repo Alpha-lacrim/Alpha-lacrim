@@ -16,13 +16,13 @@
 
 - About Me: I'm a dedicated Computer Engineer with a deep passion for both hardware and software. My technical background includes experience in image processing, machine learning, deep learning, and CNNs, supported by strong knowledge of related frameworks and tools. I’m deeply interested in both Artificial Intelligence and Cybersecurity and aim to bridge the two fields. Currently studying LPIC-1 fundamentals to deepen my Linux knowledge and planning to explore LLMs. I have participated in multiple computer science competitions, earning top ranks in several. I’m always eager to learn new algorithms and expand my understanding of the ever-evolving world of computing.
 
-- Contact Me:
+- Contact Me via
 <!-- Socials -->
 <div align="center"> 
   <!--  Mail  -->
-  <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank" alt="LinkedIn"       width="30px"></a>
+  <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank" alt="Gmail"       width="30px"></a>
   <!--  Telegram  -->
-  <a href = "https://t.me/brotherinarm"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="LinkedIn"     width="30px"></a>
+  <a href = "https://t.me/brotherinarm"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="Telegram"     width="30px"></a>
 </div>
 
 
