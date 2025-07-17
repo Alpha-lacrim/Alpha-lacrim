@@ -30,7 +30,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,opencv,tensorflow,anaconda,linux,kali,ubuntu,jupyternotebook,vscode,clion,pycharm,idea&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,opencv,tensorflow,anaconda,linux,kali,ubuntu,vscode,clion,pycharm,idea&perline=5" /><br>
   </a>
 <hr>
 
