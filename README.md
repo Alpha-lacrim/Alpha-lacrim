@@ -17,7 +17,7 @@
 - About Me: I'm a dedicated Computer Engineer with a deep passion for both hardware and software. My technical background includes experience in image processing, machine learning, deep learning, and CNNs, supported by strong knowledge of related frameworks and tools. I’m deeply interested in both Artificial Intelligence and Cybersecurity and aim to bridge the two fields. Currently studying LPIC-1 fundamentals to deepen my Linux knowledge and planning to explore LLMs. I have participated in multiple computer science competitions, earning top ranks in several. I’m always eager to learn new algorithms and expand my understanding of the ever-evolving world of computing.
 
 <!-- Socials -->
-<h2 align="center">Contact me:</h2>
+<h2 align="center">Contact me via</h2>
 
 <div align="center">
   <!--  Mail  -->
