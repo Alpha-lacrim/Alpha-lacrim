@@ -1,7 +1,7 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/d72c3011-fd79-4ca5-875b-92f80c8e5f4a)
 
-- 👋 Hi, I’m @Alpha-lacrim a junior programmer and a computer engineering student.
+- 👋 Hi, I’m @Alpha-lacrim a junior
 
 - 👀 I’m interested in Cybersecurity, AI and video games
 
