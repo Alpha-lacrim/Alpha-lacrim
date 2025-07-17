@@ -20,7 +20,7 @@
 
 
 
-![snake gif](https://github.com/Alpha-lacrim/Alpha-lacrim/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Alpha-lacrim/Alpha-lacrim/blob/output/github-contribution-grid-snake-dark.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim&theme=radical)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha-Lacrim&show_icons=true&theme=radical)
 
