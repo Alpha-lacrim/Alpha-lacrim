@@ -26,11 +26,11 @@
 
 <!-- Languages -->
 <hr>
-<h2 align="center">🔥 Languages/Frameworks/Tools 🔥</h2>
+<h2 align="center">Languages/Frameworks/Tools</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,opencv,tensorflow,anaconda,linux,kali,ubuntu,vscode,clion,pycharm,idea&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,opencv,tensorflow,anaconda,linux,kali,ubuntu,vscode,clion,pycharm,idea&perline=4" /><br>
   </a>
 <hr>
 
