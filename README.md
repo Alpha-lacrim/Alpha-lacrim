@@ -18,7 +18,7 @@
 
 - Contact Me:
 <!-- Socials -->
-<div align="left"> 
+<div> 
   <!--  Mail  -->
   <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank" alt="Gmail"       width="30px"></a>
   <!--  Telegram  -->
