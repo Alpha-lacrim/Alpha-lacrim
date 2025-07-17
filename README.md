@@ -19,9 +19,9 @@
 <!-- Socials -->
 <div align="center"> 
   <!--  Mail  -->
-  <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/Alpha-lacrim/Alpha-lacrim/blob/main/images/Gmail-icon.png" target="_blank" alt="Gmail"       width="30px"></a>
+  <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/Alpha-lacrim/Alpha-lacrim/blob/main/images/Gmail.png" target="_blank" alt="Gmail"       width="30px"></a>
   <!--  Telegram  -->
-  <a href = "https://t.me/brotherinarm"><img src="https://github.com/Alpha-lacrim/Alpha-lacrim/blob/main/images/Telegram-icon.png" target="_blank" alt="Telegram"     width="30px"></a>
+  <a href = "https://t.me/brotherinarm"><img src="https://github.com/Alpha-lacrim/Alpha-lacrim/blob/main/images/Telegram.png" target="_blank" alt="Telegram"     width="30px"></a>
 </div>
 
 
