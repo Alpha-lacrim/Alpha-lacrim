@@ -29,7 +29,12 @@ I'm always eager to learn new algorithms and stay up-to-date with the evolving t
 
 
 
-![snake gif](https://github.com/Alpha-lacrim/Alpha-lacrim/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alpha-lacrim/Alpha-lacrim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alpha-lacrim/Alpha-lacrim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alpha-lacrim/Alpha-lacrim/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha-Lacrim&show_icons=true&theme=radical)
 
