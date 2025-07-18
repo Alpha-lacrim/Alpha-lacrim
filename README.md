@@ -1,18 +1,21 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/d72c3011-fd79-4ca5-875b-92f80c8e5f4a)
 
-- 👋 Hi, I’m @Alpha-lacrim
-  
-- 👀 I’m interested in Cybersecurity, AI and video games
+### 👋 Hi, I’m @Alpha-lacrim
 
-- 🌱 I’m currently learning and not working but I'd like to
+- 👀 Interested in Cybersecurity, AI, and Video Games  
+- 🌱 Currently learning and open to work opportunities  
+- 😄 Pronouns: He/Him  
+- ☕ Languages: English & Persian  
 
-- 😄 Pronouns: He/Him
+I'm a Computer Engineer passionate about both hardware and software.
+I have hands-on experience in image processing, machine learning, deep learning, and CNNs, along with strong knowledge of related frameworks and tools.
 
-- ☕ I can speak English and Persian
+I'm particularly interested in the intersection of Artificial Intelligence and Cybersecurity.
+Currently, I'm studying for the LPIC-1 certification to strengthen my Linux skills and plan to explore large language models (LLMs) next.
 
-
-I'm a dedicated Computer Engineer with a deep passion for both hardware and software. My technical background includes experience in image processing, machine learning, deep learning, and CNNs, supported by strong knowledge of related frameworks and tools. I’m deeply interested in both Artificial Intelligence and Cybersecurity and aim to bridge the two fields. Currently studying LPIC-1 fundamentals to deepen my Linux knowledge and planning to explore LLMs. I have participated in multiple computer science competitions, earning top ranks in several. I’m always eager to learn new algorithms and expand my understanding of the ever-evolving world of computing.
+I've also participated in multiple computer science competitions, earning top rankings.
+I'm always eager to learn new algorithms and stay up-to-date with the evolving tech landscape.
 
 <!-- Socials -->
 <h2 align="center">Contact me via</h2>
