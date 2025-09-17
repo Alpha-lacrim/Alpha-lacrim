@@ -23,7 +23,9 @@ I'm always eager to learn new algorithms and stay up-to-date with the evolving t
   <!--  Mail  -->
   <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank" alt="Gmail"       width="30px"></a>
   <!--  Telegram  -->
-  <a href = "https://t.me/brotherinarm"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="Telegram"     width="30px"></a>
+  <a href = "https://t.me/cofeeoldman"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="Telegram"     width="30px"></a>
+  <!-- LinkedIn -->
+  <a href = "https://www.linkedin.com/in/pouyan-d-731a48384/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" alt="LinkedIn"     width="30px"></a>
 </div>
 
 
