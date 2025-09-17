@@ -12,7 +12,6 @@ I'm a Computer Engineer passionate about both hardware and software.
 I have hands-on experience in image processing, machine learning, deep learning, and CNNs, along with strong knowledge of related frameworks and tools.
 
 I'm particularly interested in the intersection of Artificial Intelligence and Cybersecurity.
-Currently, I'm studying for the LPIC-1 certification to strengthen my Linux skills and plan to explore large language models (LLMs) next.
 
 I've also participated in multiple computer science competitions, earning top rankings.
 I'm always eager to learn new algorithms and stay up-to-date with the evolving tech landscape.
